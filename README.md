@@ -21,14 +21,6 @@ I turn boring, repetitive tasks into single-click scripts. I help businesses sav
 
 ---
 
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-Saeed-Mech&show_icons=true&theme=dark&hide_border=true" alt="Saeed's Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Saeed-Mech&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
----
 
 ### 📫 Connect with Me
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit_Site-e74c3c?style=for-the-badge)](https://eng-saeed-mech.github.io/portfolio/)
