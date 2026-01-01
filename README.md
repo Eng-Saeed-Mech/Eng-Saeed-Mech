@@ -22,11 +22,12 @@ I turn boring, repetitive tasks into single-click scripts. I help businesses sav
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
+### 📊 GitHub Stats
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Eng-Saeed-Mech&show_icons=true&theme=dark&hide_border=true" alt="Saeed's Stats" />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Saeed-Mech&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
