@@ -39,6 +39,6 @@ Check out the source code in my portfolio repository:
 <img src="https://img.shields.io/badge/HIRE_ME-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me" />
 </a>
 
-<a href="https://mostaql.com/">
-<img src="https://img.shields.io/badge/MOSTAQL-Coming_Soon-lightgrey?style=for-the-badge" alt="Mostaql" />
+<a href="https://mostaql.com/u/Saeed_Eng1">
+  <img src="https://img.shields.io/badge/HIRE_ME-Mostaql-0091FF?style=for-the-badge&logo=freelancer&logoColor=white" alt="Hire Me on Mostaql" />
 </a>
