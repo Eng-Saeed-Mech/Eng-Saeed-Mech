@@ -14,7 +14,7 @@ A complete, stateful ATM backend application built entirely from scratch in **C+
 * **Engineering Highlights:** - Designed an **OOP** architecture to securely encapsulate customer banking data.
   - Implemented persistent database state management using `fstream` (File I/O).
   - Built strict input validation and transaction logging mechanisms for system security and auditing.
-* 👉 [Click here to view the GigaBank Source Code](https://github.com/Eng-Saeed-Mech/ATM-System)
+* 👉 [Click here to view the ATMsystemBank Source Code](https://github.com/Eng-Saeed-Mech/ATM-System)
 
 ### 📈 Background (Automation & Data)
 In addition to core systems programming, I leverage Python to automate repetitive workflows, scrape web data, and manage large datasets efficiently using tools like Selenium and Pandas.
