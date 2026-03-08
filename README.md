@@ -20,4 +20,4 @@ A complete, stateful ATM backend application built entirely from scratch in **C+
 In addition to core systems programming, I leverage Python to automate repetitive workflows, scrape web data, and manage large datasets efficiently using tools like Selenium and Pandas.
 
 ### 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/saeed-ali-412405391) | [Email](mailto:saeed.ali.saeed261@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saeed-ali-412405391/) | [Email](mailto:saeed.ali.saeed261@gmail.com)
