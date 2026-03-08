@@ -9,15 +9,15 @@ As a **Computer Engineer**, I bridge the gap between hardware architecture and s
 * **Engineering Concepts:** Object-Oriented System Design, File I/O & Persistent Storage, Data Structures, Low-Level Logic.
 * **Tools:** Git, GitHub, Code::Blocks.
 
-### 🔭 Featured Project: GigaBank ATM System
+### 🔭 Featured Project: ATM System
 A complete, stateful ATM backend application built entirely from scratch in **C++**. 
 * **Engineering Highlights:** - Designed an **OOP** architecture to securely encapsulate customer banking data.
   - Implemented persistent database state management using `fstream` (File I/O).
   - Built strict input validation and transaction logging mechanisms for system security and auditing.
-* 👉 [Click here to view the GigaBank Source Code](حط_لينك_الريبو_بتاعت_البنك_هنا)
+* 👉 [Click here to view the GigaBank Source Code](https://github.com/Eng-Saeed-Mech/ATM-System)
 
 ### 📈 Background (Automation & Data)
 In addition to core systems programming, I leverage Python to automate repetitive workflows, scrape web data, and manage large datasets efficiently using tools like Selenium and Pandas.
 
 ### 📫 Connect with Me
-[LinkedIn](حط_لينك_لينكد_إن_بتاعك) | [Email](mailto:حط_ايميلك_هنا)
+[LinkedIn](www.linkedin.com/in/saeed-ali-412405391) | [Email](mailto:saeed.ali.saeed261@gmail.com)
